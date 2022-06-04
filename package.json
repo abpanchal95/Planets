@@ -1,0 +1,23 @@
+{
+  "name": "planets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abpanchal95/Planets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abpanchal95/Planets/issues"
+  },
+  "homepage": "https://github.com/abpanchal95/Planets#readme",
+  "dependencies": {
+    "csv-parse": "^5.1.0"
+  }
+}
